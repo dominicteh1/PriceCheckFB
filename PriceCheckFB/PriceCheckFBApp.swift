@@ -3,9 +3,11 @@
 // Using Swift 5.0
 // Qapla'
 
+import Foundation
 import SwiftUI
 // import Firebase modules here
-
+import FirebaseCore
+import FirebaseFirestore
 
 class AppDelegate: NSObject, UIApplicationDelegate {
   func application(_ application: UIApplication,
